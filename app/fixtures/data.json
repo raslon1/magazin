@@ -1,0 +1,153 @@
+{
+    "ver": "1.01",
+    "models": [
+        {
+            "model": "category",
+            "items": [
+                {
+                    "name": "%D0%91%D0%B5%D0%BB%D1%8C%D0%B5",
+                    "guid": "1cf9dbe7-27ae-11e9-8f8f-ac220b51d18c"
+                },
+                {
+                    "name": "%D0%9A%D1%83%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8%20%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5",
+                    "guid": "1cf9dbf7-27ae-11e9-8f8f-ac220b51d18c",
+                    "parent": "1cf9dbed-27ae-11e9-8f8f-ac220b51d18c"
+                },
+                {
+                    "name": "%D0%9A%D1%83%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8",
+                    "guid": "1cf9dbed-27ae-11e9-8f8f-ac220b51d18c"
+                },
+                {
+                    "name": "%D0%9A%D1%83%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%B8%20%D1%81%D0%BB%D0%B8%D1%82%D0%BD%D1%8B%D0%B5",
+                    "guid": "d8ce39b5-2b6c-11e9-bb92-ac1f6b6e045a",
+                    "parent": "1cf9dbe7-27ae-11e9-8f8f-ac220b51d18c"
+                },
+                {
+                    "name": "%D0%9E%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0",
+                    "guid": "d8ce39b8-2b6c-11e9-bb92-ac1f6b6e045a"
+                },
+                {
+                    "name": "%D0%A2%D1%83%D0%BD%D0%B8%D0%BA%D0%B8",
+                    "guid": "d8ce39c5-2b6c-11e9-bb92-ac1f6b6e045a",
+                    "parent": "1cf9dbf7-27ae-11e9-8f8f-ac220b51d18c"
+                }
+            ]
+        },
+        {
+            "model": "Color",
+            "items": [
+                {
+                    "name": "%D0%91%D0%B5%D0%BB%D1%8B%D0%B9",
+                    "guid": "7e4ffcf4-3dd7-11e9-bb93-ac1f6b6e041e",
+                    "hexcode": "FFFFFF"
+                },
+                {
+                    "name": "%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9",
+                    "guid": "a5178985-3dd9-11e9-bb93-ac1f6b6e041e",
+                    "hexcode": "42AAFF"
+                },
+                {
+                    "name": "%D0%A0%D0%BE%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9",
+                    "guid": "6a6ab601-59ba-11e9-bba5-ac1f6b7679b4",
+                    "hexcode": "A0A0A0"
+                },
+                {
+                    "name": "%D0%91%D0%B8%D1%80%D1%8E%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%2F%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9",
+                    "guid": "94696a52-508e-11e9-bb8f-ac1f6b6e0406",
+                    "hexcode": "1D1D1D"
+                },
+                {
+                    "name": "%D0%A0%D0%BE%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9%2F%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9",
+                    "guid": "94696a5f-508e-11e9-bb8f-ac1f6b6e0406",
+                    "hexcode": "EEEEEE"
+                },
+                {
+                    "name": "%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9",
+                    "guid": "94696a67-508e-11e9-bb8f-ac1f6b6e0406",
+                    "hexcode": "94696a"
+                },
+                {
+                    "name": "%D0%97%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9",
+                    "guid": "94696a6c-508e-11e9-bb8f-ac1f6b6e0406",
+                    "hexcode": "008000"
+                },
+                {
+                    "name": "%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%BE%D0%B9%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%BA%D1%83",
+                    "guid": "94696a7d-508e-11e9-bb8f-ac1f6b6e0406",
+                    "hexcode": "FEFEFE"
+                },
+                {
+                    "name": "%D0%A1%D0%B5%D1%80%D1%8B%D0%B9%20%D0%B2%20%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D0%BA%D1%83",
+                    "guid": "94696a80-508e-11e9-bb8f-ac1f6b6e0406",
+                    "hexcode": "AAAAAA"
+                },
+                {
+                    "name": "%D0%A7%D0%B5%D1%80%D0%BD%D1%8B%D0%B9",
+                    "guid": "94696a8d-508e-11e9-bb8f-ac1f6b6e0406",
+                    "hexcode": "DDDDDD"
+                }
+            ]
+        },
+        {
+            "model": "Products",
+            "items": [
+                {
+                    "name": "SIREN%20SONG%20TRIANGLE%20TOP",
+                    "guid": "30ced8b3-3b1d-11e9-bb8f-ac1f6b67576f",
+                    "price": 0,
+                    "category": "d8ce39c5-2b6c-11e9-bb92-ac1f6b6e045a",
+                    "color": "7e4ffcf4-3dd7-11e9-bb93-ac1f6b6e041e"
+                },
+                {
+                    "name": "SIREN%20SONG%20TRIANGLE%20TOP",
+                    "guid": "30ced8b3-3b1d-11e9-bb8f-ac1f6b67576f",
+                    "price": 0,
+                    "category": "1cf9dbf7-27ae-11e9-8f8f-ac220b51d18c",
+                    "color": "7e4ffcf4-3dd7-11e9-bb93-ac1f6b6e041e"
+                },
+                {
+                    "name": "DRIFTWOOD%20RUFFLE%20ONE%20PIECE",
+                    "guid": "30ced8ba-3b1d-11e9-bb8f-ac1f6b67576f",
+                    "price": 7000,
+                    "category": "1cf9dbf7-27ae-11e9-8f8f-ac220b51d18c",
+                    "color": "7e4ffcf4-3dd7-11e9-bb93-ac1f6b6e041e"
+                },
+                {
+                    "name": "NADIA%20TRIANGLE%20TOP",
+                    "guid": "94696a87-508e-11e9-bb8f-ac1f6b6e0406",
+                    "price": 5000,
+                    "category": "1cf9dbf7-27ae-11e9-8f8f-ac220b51d18c",
+                    "color": "94696a8d-508e-11e9-bb8f-ac1f6b6e0406"
+                },
+                {
+                    "name": "PILYQ%20COLOR%20BLOCK%20BANDEAU%20",
+                    "guid": "af13f2b1-5096-11e9-bb8f-ac1f6b6e0406",
+                    "price": 10,
+                    "category": "1cf9dbed-27ae-11e9-8f8f-ac220b51d18c",
+                    "color": "94696a80-508e-11e9-bb8f-ac1f6b6e0406"
+                },
+                {
+                    "name": "INDIAN%20SUMMER%20PONCHO",
+                    "guid": "af13f2bd-5096-11e9-bb8f-ac1f6b6e0406",
+                    "price": 100,
+                    "category": "d8ce39b5-2b6c-11e9-bb92-ac1f6b6e045a",
+                    "color": "94696a6c-508e-11e9-bb8f-ac1f6b6e0406"
+                },
+                {
+                    "name": "KIKI",
+                    "guid": "30ced8b3-3b1d-11e9-bb8f-ac1f6b67576f",
+                    "price": 1200,
+                    "category": "1cf9dbf7-27ae-11e9-8f8f-ac220b51d18c",
+                    "color": "94696a67-508e-11e9-bb8f-ac1f6b6e0406"
+                },
+                {
+                    "name": "AWA",
+                    "guid": "af13f2d1-5096-11e9-bb8f-ac1f6b6e0406",
+                    "price": 100000,
+                    "category": "1cf9dbed-27ae-11e9-8f8f-ac220b51d18c",
+                    "color": "94696a6c-508e-11e9-bb8f-ac1f6b6e0406"
+                }
+            ]
+        }
+    ]
+}
